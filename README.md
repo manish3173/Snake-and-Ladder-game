@@ -1,6 +1,5 @@
 # Snake Ladder Game
 
-## Description
 The Snake Ladder Game is a simple console-based board game written in C++. It simulates the classic Snakes and Ladders game for two players. The first player to reach 100 points wins. Snakes decrease your points while ladders increase them.
 
 ## Features
@@ -14,11 +13,25 @@ The Snake Ladder Game is a simple console-based board game written in C++. It si
 
 ## How to Compile
 To compile the program, use the following command:
+bash
 ```
 g++ snake_ladder_game.cpp -o snake_ladder_game
 ```
 
 ## How to Run
 After compiling, you can run the program using:
+bash
 ```
 ./snake_ladder_game
+```
+
+## Contributing
+Feel free to submit issues and pull requests. Contributions are welcome!
+
+## Contact
+For questions or support, please contact:
+
+- **Y Manish Kumar**: [ymanishk602@gmail.com](mailto:ymanishk602@gmail.com)
+
+## License
+This project is licensed under the MIT License.
